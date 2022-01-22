@@ -3,7 +3,7 @@
 제작 및 편집 : 빅데이터전공 20195120 김도현
 
 
-웹 사이트 주소 : https://doggang.github.io/coda/
+웹 사이트 주소 : www.h-coda.com        or        https://doggang.github.io/coda/
 
 
 
