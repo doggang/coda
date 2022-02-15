@@ -1,0 +1,14 @@
+bumper.mp4 filter=lfs diff=lfs merge=lfs -text
+canon.mp4 filter=lfs diff=lfs merge=lfs -text
+cantstop.mp4 filter=lfs diff=lfs merge=lfs -text
+ebang.mp4 filter=lfs diff=lfs merge=lfs -text
+holiday.mp4 filter=lfs diff=lfs merge=lfs -text
+hot.mp4 filter=lfs diff=lfs merge=lfs -text
+hotfresh.mp4 filter=lfs diff=lfs merge=lfs -text
+plasticlove.mp4 filter=lfs diff=lfs merge=lfs -text
+pretty.mp4 filter=lfs diff=lfs merge=lfs -text
+sinho.mp4 filter=lfs diff=lfs merge=lfs -text
+sk8er.mp4 filter=lfs diff=lfs merge=lfs -text
+sk8erboi.mp4 filter=lfs diff=lfs merge=lfs -text
+strawberrymoon.mp4 filter=lfs diff=lfs merge=lfs -text
+weekend.mp4 filter=lfs diff=lfs merge=lfs -text
