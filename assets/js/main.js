@@ -229,7 +229,7 @@
 function call_alert(){
   swal({
     title: "회장 연락처",
-    text: "010-2001-6448",
+    text: "010-3599-7723",
     icon: "success" //"info,success,warning,error" 중 택1
   })
 }
