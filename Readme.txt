@@ -6,8 +6,7 @@
 웹 사이트 주소 : www.h-coda.com        or        https://doggang.github.io/coda/
 
 
-이거 개대충 그냥 막 후린 웹
-
+bootstrap 사용하여 간단하게 만든 동아리 웹사이트.
 
 
 
